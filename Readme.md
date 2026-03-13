@@ -11,7 +11,7 @@ The objective is to help companies identify high-risk customers and take proacti
 
 # Dataset
 
-This project uses the IBM Telco Customer Churn Dataset from Kaggle.
+This project uses the Telco Customer Churn Dataset 
 
 Features include:
 
@@ -27,17 +27,16 @@ Target variable:
 
 Churn (Yes / No)
 
-# Project Workflow
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Machine Learning Models
-Model Evaluation
-
+## Project Workflow
+# Data Preprocessing
+# Exploratory Data Analysis (EDA)
+# Machine Learning Models(Churn_Prediction.ipynb)
+# Model Evaluation
 # Feature Importance
 
 
 # Details about dataset 
-The dataset named Telco Customer Churn from Kaggle was used. 
+The dataset named Telco Customer-Churn-csv is used.
 Each row represents a customer, each column contains the customer's attributes. 
 This dataset contains 21 columns (variables) and 7043 rows (customers) 
 with information such as customerID, gender, Phone Service, and Internet Service. 
