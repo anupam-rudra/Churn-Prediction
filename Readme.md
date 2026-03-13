@@ -27,12 +27,12 @@ Target variable:
 
 Churn (Yes / No)
 
-## Project Workflow
-# Data Preprocessing
-# Exploratory Data Analysis (EDA)
-# Machine Learning Models(Churn_Prediction.ipynb)
-# Model Evaluation
-# Feature Importance
+# Project Workflow
+## Data Preprocessing
+## Exploratory Data Analysis (EDA)
+## Machine Learning Models(Churn_Prediction.ipynb)
+## Model Evaluation
+## Feature Importance
 
 
 # Details about dataset 
