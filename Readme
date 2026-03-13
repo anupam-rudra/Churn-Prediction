@@ -1,3 +1,44 @@
+
+
+## Customer Churn Prediction
+
+# Project Overview
+
+Customer churn is a critical problem for subscription-based businesses. Retaining an existing customer is often significantly cheaper than acquiring a new one.
+
+This project builds machine learning models to predict whether a customer will churn based on demographic information, service usage, and account details.
+
+The objective is to help companies identify high-risk customers and take proactive retention measures.
+
+
+# Dataset
+
+This project uses the IBM Telco Customer Churn Dataset from Kaggle.
+
+Features include:
+
+Customer demographics
+
+Account information
+
+Service subscriptions
+
+Monthly charges and tenure
+
+Target variable:
+
+Churn (Yes / No)
+
+# Project Workflow
+Data Preprocessing
+Exploratory Data Analysis (EDA)
+Machine Learning Models
+Model Evaluation
+
+# Feature Importance
+
+
+# Details about dataset 
 The dataset named Telco Customer Churn from Kaggle was used. 
 Each row represents a customer, each column contains the customer's attributes. 
 This dataset contains 21 columns (variables) and 7043 rows (customers) 
