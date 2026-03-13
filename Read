@@ -1,9 +1,0 @@
-## Customer Churn Prediction
-
-# Project Overview
-
-Customer churn is a critical problem for subscription-based businesses. Retaining an existing customer is often significantly cheaper than acquiring a new one.
-
-This project builds machine learning models to predict whether a customer will churn based on demographic information, service usage, and account details.
-
-The objective is to help companies identify high-risk customers and take proactive retention measures.
